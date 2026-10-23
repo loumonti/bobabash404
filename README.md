@@ -1,0 +1,1 @@
+Basically, a 404 not found page inspired in boba tea full of easter eggs. Its purpose is to give ideas to boba bash attendees and to show them how complex looking things are actually simple. Made mostly in html and css (trying to steer clear of js bc for new people it may be too complex like for me lol) to make it simpler for new programmers.
